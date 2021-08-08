@@ -4,7 +4,7 @@ PowerShell Snippets and reusable scripts
 
    #### "findstr" Regular expression quick reference: 
  
-     .      Wildcard: any character
+     .        Wildcard: any character
      *        Repeat: zero or more occurrences of previous character or class
      ^        Line position: beginning of line
      $        Line position: end of line
